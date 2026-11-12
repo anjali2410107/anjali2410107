@@ -12,7 +12,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anjali2410107&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false" height="180" />
-  <img src="https://streak-stats.demolab.com?user=anjali2410107&theme=dark&hide_border=false&timezone=Asia%2FKolkata" height="180" />
+
+
+<img src="https://streak-stats.demolab.com?user=anjali2410107&theme=dark&hide_border=false&hide_total_contributions=true" />
 </p>
 
 <p align="center">
